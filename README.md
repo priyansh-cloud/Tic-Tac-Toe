@@ -10,7 +10,6 @@ A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 
 - Two-player gameplay (X and O)
 - Winner detection
-- Draw detection
 - Reset game functionality
 - New Game button
 - Responsive UI
