@@ -6,7 +6,7 @@ A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 
 🔗 https://tic-tac-toe-priyansh.netlify.app/
 
-## 🚀 Features
+## 🚀 Features.
 
 - Two-player gameplay (X and O)
 - Winner detection
